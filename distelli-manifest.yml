@@ -1,4 +1,4 @@
-sespina/tomcat-war-docker22:
+sespina/test:
 
   Env:
     # Set the below enviornment variables for your environment
