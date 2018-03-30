@@ -20,7 +20,7 @@ sespina/test:
     ### End Docker Build Commands ###
 
   PkgInclude:
-    - './target/*.war'
+    - './*.war'
 
   PreInstall:
     - echo "DD_USERNAME- $DISTELLI_DOCKER_USERNAME"
